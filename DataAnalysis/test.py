@@ -83,5 +83,4 @@ fd.close()
 with open('./test.txt', 'w') as fd:
     fd.write('hello world')
 
-with open('test.txt', 'r') as file1:
     

@@ -1,6 +1,7 @@
 """ matplotlib 绘图"""
 import random
 from matplotlib import pyplot as plt
+
 plt.rcParams['font.sans-serif'] = ['simHei'] # 显示中文
 plt.rcParams['axes.unicode_minus'] = False # 用来正常显示负号
 fig = plt.figure(figsize=(10,8),dpi=80)
