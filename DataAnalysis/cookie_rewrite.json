@@ -1,0 +1,14 @@
+{
+"domain": ".bilibili.com",
+"expirationDate": 1643810333,
+"hostOnly": false,
+"httpOnly": false,
+"name": "_uuid",
+"path": "/",
+"sameSite": "unspecified",
+"secure": false,
+"session": false,
+"storeId": "0",
+"value": "978462A1-1F17-4713-CD71-FF0C711B51AA33040infoc",
+"id": 1
+}
